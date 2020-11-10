@@ -83,6 +83,10 @@ h3 {
   list-style-type: dash;
 }
 
+.img{
+  max-width: 45%;
+}
+
 @media only screen and (max-width: 1030px) {
   .row_container {
     flex-direction: column;
