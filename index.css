@@ -70,6 +70,13 @@ header{
   font-weight: bold;
 }
 
+.no-dot {
+  list-style-type: none;
+}
+.dash {
+  list-style-type: dash;
+}
+
 @media only screen and (max-width: 1030px) {
   .row_container {
     flex-direction: column;
