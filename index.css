@@ -85,6 +85,7 @@ header{
 
 .img{
   max-width: 45%;
+  max-height: auto;
 }
 
 @media only screen and (max-width: 1030px) {
@@ -106,6 +107,10 @@ header{
   .rando {
     margin-left: 0;
 
+  }
+  .img{
+    max-width: 100%;
+    max-height: auto;
   }
 
 
