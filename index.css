@@ -28,7 +28,12 @@ header{
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
+  align-self: center;
+  max-width: 90%;
+}
 
+h3 {
+  text-align: center;
 }
 
 .definitions {
@@ -56,6 +61,7 @@ header{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-right: 4%;
 }
 
 .title {
