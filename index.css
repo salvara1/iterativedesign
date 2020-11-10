@@ -9,6 +9,9 @@ body{
   align-items: center;
   justify-content: flex-start;
 }
+.img {
+  margin-top: 3%;
+}
 
 header{
   display: flex;
@@ -30,10 +33,7 @@ header{
   align-items: flex-start;
   align-self: center;
   max-width: 90%;
-}
-
-h3 {
-  text-align: center;
+  flex-wrap: wrap;
 }
 
 .definitions {
